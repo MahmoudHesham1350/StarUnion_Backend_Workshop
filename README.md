@@ -128,7 +128,7 @@ git pull origin week<number>
   - Scalability and optimization
   - Good and bad response, requests
   - Testing (unit tests, integration tests)
-  - Final Project: Build and deploy a complete backend for a web application (e.g., e-commerce, social media, or blog platform)
+  - Final Project: Build and deploy a complete backend for a web application 
 
 ## Support
 
