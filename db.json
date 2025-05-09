@@ -1,0 +1,34 @@
+{
+    "books": [
+        {
+            "title": "book1",
+            "description": "book1",
+            "category": "science",
+            "author": "omar",
+            "price": 20.2,
+            "isBorrowed": false
+        },
+        {
+            "title": "book3",
+            "description": "book3",
+            "category": "science",
+            "author": "marwan",
+            "price": 80.0,
+            "isBorrowed": true
+        }
+    ],
+    "users": [
+        {
+            "username": "omar",
+            "password": "12345678"
+        },
+        {
+            "username": "marwan",
+            "password": "12345678"
+        },
+        {
+            "username": "omar",
+            "password": "12345678"
+        }
+    ]
+}
